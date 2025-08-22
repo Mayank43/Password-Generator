@@ -83,7 +83,7 @@ The application features a modern dark theme with:
 ## Project Structure
 
 ```
-Password-Generator-Mayank43/
+Password-Generator/
 ├── password_generator.py    # Main application file
 ├── requirements.txt         # Python dependencies
 ├── README.md               # Project documentation
